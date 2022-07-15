@@ -1,0 +1,22 @@
+header, nav, article, aside, footer {
+    background-color: #659494;
+    padding: 1rem;
+    margin-bottom: 1.2em;
+    color: #ffffff;
+    text-align: center;
+    border-radius: 5px;
+    border-color: #00ffff;
+    border-width: 10px;
+    border-style: solid;
+}
+
+article{
+    float: left;
+    margin-right: 1.2em;
+    width: 60%;
+}
+
+aside{
+    float: left;
+    width: calc(40% - 140px);
+}
