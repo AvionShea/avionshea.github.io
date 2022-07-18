@@ -5,9 +5,13 @@ header, nav, article, aside, footer {
     color: #ffffff;
     text-align: center;
     border-radius: 5px;
-    border-color: #00ffff;
-    border-width: 10px;
-    border-style: solid;
+    font-size: 30px;
+}
+header::before,nav::before,article::before,aside::before,footer::before{
+    content: '<';
+}
+header::after,nav::after,article::after,aside::after,footer::after{
+    content: '>';
 }
 
 article{
@@ -19,4 +23,8 @@ article{
 aside{
     float: left;
     width: calc(40% - 140px);
+}
+
+footer{
+    clear: both;
 }
