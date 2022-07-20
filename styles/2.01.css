@@ -1,23 +1,29 @@
 header, nav, article, aside, footer {
     background-color: #659494;
-    padding: 1rem;
-    margin-bottom: 1.2em;
+    padding: 20px;
+    margin: 20px;
     color: #ffffff;
     text-align: center;
     border-radius: 5px;
     font-size: 30px;
 }
-header::before,nav::before,article::before,aside::before,footer::before{
+/* header::before,nav::before,article::before,aside::before,footer::before{
     content: '<';
 }
 header::after,nav::after,article::after,aside::after,footer::after{
     content: '>';
-}
+} */
 
 article{
-    float: left;
-    margin-right: 1.2em;
+    /* float: left; */
+    margin-right: 20px;
     width: 60%;
+}
+section{
+    background-color: red;
+    margin: 1.3em;
+    flex-basis: 125px;
+
 }
 
 aside{
@@ -28,3 +34,37 @@ aside{
 footer{
     clear: both;
 }
+
+ul{
+    list-style: none; /*Turns off bullets*/
+    display: flex;
+    flex-direction: row;
+}
+
+li{
+    margin-left: 2rem;
+    padding: 10px;
+}
+
+.is_static{
+    position: static;
+    left: 120005px;
+}
+.is_relative{
+    position: relative;
+    top: -10px;
+}
+.is_absolute{
+    position: absolute;
+    top: -10px;
+}
+.is_fixed{
+    position: fixed;
+    bottom: 125px;
+    right: 10px;
+}
+.is_sticky{
+    position: sticky;
+    top: 0px;
+}
+
