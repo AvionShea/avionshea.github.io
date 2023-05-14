@@ -139,8 +139,8 @@ main .container .MiddleColumn{
 }
 
 .pic{
-    height: 270px;
-    width: 270px;
-    margin:40px;
-    border-radius: 5px;
+    height: 300px;
+    width: 300px;
+    margin:20px;
+    border-radius: 32px;
 }
