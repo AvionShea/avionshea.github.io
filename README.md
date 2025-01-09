@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=d963d3&width=435&lines=Welcome+to+my+domain!+%F0%9F%98%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=40e0d0&width=435&lines=Welcome+to+my+domain!+%F0%9F%98%8A)](https://git.io/typing-svg)
 
 Hello everyone! My name is Avion (AY-vee-ahn), and I’m on a mission to become a full-stack software engineer who can create amazing websites, apps, and programs from top to bottom (and work for NASA)! I started developing in 2022 (though not consistently). However, in 2024, I set a goal to push code every. single. day. Though challenging, I'm glad to say I achieved that goal! One thing I learned through my journey is that I'm not a fan of CSS and I find JavaScript a lot more enjoyable. Outside of coding, I work a full-time job, attend classes (obviously), and intern at an early-stage EdTech startup as a Site Reliability Engineer. I'm looking forward to learning and laughing (and ugly crying) with you all as we navigate this wild journey together.
 
