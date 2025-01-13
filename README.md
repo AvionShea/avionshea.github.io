@@ -1,16 +1,33 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=40e0d0&width=435&lines=Welcome+to+my+domain!+%F0%9F%98%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=40e0d0&width=435&lines=Welcome+to+my+tech+oasis!+%F0%9F%98%8A)](https://git.io/typing-svg)
 
-Hello everyone! My name is Avion (AY-vee-ahn), and I’m on a mission to become a full-stack software engineer who can create amazing websites, apps, and programs from top to bottom (and work for NASA)! I started developing in 2022 (though not consistently). However, in 2024, I set a goal to push code every. single. day. Though challenging, I'm glad to say I achieved that goal! One thing I learned through my journey is that I'm not a fan of CSS and I find JavaScript a lot more enjoyable. Outside of coding, I work a full-time job, attend classes (obviously), and intern at an early-stage EdTech startup as a Site Reliability Engineer. I'm looking forward to learning and laughing (and ugly crying) with you all as we navigate this wild journey together.
+Hello everyone! Greetings to my personal GitHub account. This GitHub is a dynamic portfolio showcasing a blend of app and web development projects, built with technologies like JavaScript, Python, Node.js, TypeScript, and Jupyter Notebooks. It reflects my journey in software engineering, serving as both a professional showcase and a learning hub.
+
+# Web, Program, & Database Foundation (Spring 2025)
+
+**Course Number:** CTI.110.4138
+**Professor:** Ryan Steffes
+
+This repository contains coursework and assignments for the _Web, Program, & Database Foundation_ class. Topics covered include:
+
+- Markup and Markdown
+- Large Language Models (LLMs)
+- Project Management with Agile
+- Git Command Line
+- Intro to Databases
+- Intro to Web Design
+- HTML Forms
+- Intro to Algorithms
+- Intro to JavaScript
 
 ---
 
 ⚡️ A quick introduction
 
+- 🏷️ My name is Avion (AY-vee-ahn).
+
 - 👩🏾‍🏫 Currently enrolled in Computer Programming and Development with a concentration in Java.
 
 - 👩🏾‍🎓 1st generation college graduate with an Associate's degree in Advertising & Graphic Design and a Bachelor’s degree in Business Administration.
-
-- 💼 Open to full-time work || apprenticeships/internships.
 
 - 💚 I enjoy food, astronomy, listening to music, summer night driving, and playing video games.
 
@@ -18,10 +35,13 @@ Hello everyone! My name is Avion (AY-vee-ahn), and I’m on a mission to become 
 
 - 🥳 Fun Fact: Very first year of college was spent double majoring in culinary arts, and baking & pastry.
 
+- 💼 Open to full-time work, apprenticeships, || internships.
+
 ---
 
 🤝🏾 Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/email%20me-fffff?style=for-the-badge&logo=email&logoColor=blue)](mailto:apcobb@my.waketech.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avion-cobb/)
 
 ---
