@@ -2,6 +2,8 @@
 
 Hello everyone! Greetings to my personal GitHub account. This GitHub is a dynamic portfolio showcasing a blend of app and web development projects, built with technologies like JavaScript, Python, Node.js, TypeScript, and Jupyter Notebooks. It reflects my journey in software engineering, serving as both a professional showcase and a learning hub.
 
+---
+
 # Web, Program, & Database Foundation (Spring 2025)
 
 **Course Number:** CTI.110.4138
@@ -21,7 +23,9 @@ This repository contains coursework and assignments for the _Web, Program, & Dat
 
 ---
 
-⚡️ A quick introduction
+# About Me
+
+## ⚡️ A quick introduction
 
 - 🏷️ My name is Avion (AY-vee-ahn).
 
@@ -29,24 +33,22 @@ This repository contains coursework and assignments for the _Web, Program, & Dat
 
 - 👩🏾‍🎓 1st generation college graduate with an Associate's degree in Advertising & Graphic Design and a Bachelor’s degree in Business Administration.
 
+- 🥳 Fun Fact: Very first year of college was spent double majoring in culinary arts, and baking & pastry.
+
+## 🎀 Interests
+
 - 💚 I enjoy food, astronomy, listening to music, summer night driving, and playing video games.
 
 - 👩🏾‍💻 National Society of Black Engineers (NSBE) member, Wake Invests in Women mentee, and Google's TEC Innovate 2024 alumna.
 
-- 🥳 Fun Fact: Very first year of college was spent double majoring in culinary arts, and baking & pastry.
-
 - 💼 Open to full-time work, apprenticeships, or internships.
 
----
-
-🤝🏾 Connect With Me
+## 🤝🏾 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/email%20me-fffff?style=for-the-badge&logo=email&logoColor=blue)](mailto:apcobb@my.waketech.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avion-cobb/)
 
----
-
-💻 Languages & Tools
+## 💻 Languages & Tools
 
 <p float="left">
 
@@ -61,3 +63,16 @@ This repository contains coursework and assignments for the _Web, Program, & Dat
 <img style="padding:5px;" align="center" alt="PostgresSQL" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"/>
 
 </p>
+
+---
+
+# 📚 Academic Resources
+
+Some resources I've found helpful:
+
+- [Shay Howe](https://learn.shayhowe.com/)
+
+  - Covers a variety of web design and development topics (HTML/CSS).
+
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
+  - Introduces the concept of JavaScript.
