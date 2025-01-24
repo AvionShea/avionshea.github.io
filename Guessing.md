@@ -5,9 +5,9 @@
 ```mermaid
 flowchart TD
     A[Enter your Input] --> B{Is it a number?};
-    B -- Yes --> C[Is it between 1-25];
-    C -- Yes --> G[Is it between 1-12?]
-    C -- Yes --> L[Is it between 13-25?]
+    B -- Yes --> C[Is it between 1-25?];
+    C -- Yes --> G[It's between 1-12?]
+    C -- Yes --> L[It's between 13-25?]
     B -- No --> D[Try Again]
     D --> A
     C -- No --> D
