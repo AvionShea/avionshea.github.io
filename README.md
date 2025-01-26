@@ -4,12 +4,12 @@ Hello everyone! Greetings to my personal GitHub account. This GitHub is a dynami
 
 ---
 
-# Web, Program, & Database Foundation (Spring 2025)
+# Web, Programming, & Database Foundation (Spring 2025)
 
 **Course Number:** CTI.110.4138
 **Professor:** Ryan Steffes
 
-This repository contains coursework and assignments for the _Web, Program, & Database Foundation_ class. Topics covered include:
+This repository contains coursework and assignments for the _Web, Programming, & Database Foundation_ class. Topics covered include:
 
 - Markup and Markdown
 - Large Language Models (LLMs)
