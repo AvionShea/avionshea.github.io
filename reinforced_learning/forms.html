@@ -17,6 +17,9 @@
             id="first-name"
             name="first-name"
             placeholder="Enter your first name"
+            required
+            pattern="[A-Za-z]"
+            title="Please enter a valid first name using only letters"
           />
         </p>
         <p>
@@ -26,6 +29,9 @@
             id="last-name"
             name="last-name"
             placeholder="Enter your last name"
+            required
+            pattern="[A-Za-z]"
+            title="Please enter a valid last name using only letters"
           />
         </p>
         <p>
@@ -35,6 +41,7 @@
             id="email"
             name="email"
             placeholder="Enter your email"
+            required
           />
         </p>
       </section>
@@ -42,8 +49,14 @@
       <section>
         <p>
           <label for="student">Are you a student?</label>
-          <input type="radio" id="student" name="student" value="yes" /> Yes
-          <input type="radio" id="student" name="student" value="no" /> No
+          <input
+            type="radio"
+            id="student"
+            name="student"
+            value="yes"
+            required
+          />
+          Yes <input type="radio" id="student" name="student" value="no" /> No
         </p>
       </section>
 
