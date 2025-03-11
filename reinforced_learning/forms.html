@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HTML Forms</title>
+    <link rel="stylesheet" href="/reinforced_learning/form_styles.css" />
+  </head>
+  <body>
+    <form action="/submit-form" method="post">
+      <h1>Student Information</h1>
+      <section>
+        <p>
+          <label for="first-name">First Name:</label>
+          <input
+            type="text"
+            id="first-name"
+            name="first-name"
+            placeholder="Enter your first name"
+          />
+        </p>
+        <p>
+          <label for="last-name">Last Name:</label>
+          <input
+            type="text"
+            id="last-name"
+            name="last-name"
+            placeholder="Enter your last name"
+          />
+        </p>
+        <p>
+          <label for="email">Email:</label>
+          <input
+            type="email"
+            id="email"
+            name="email"
+            placeholder="Enter your email"
+          />
+        </p>
+      </section>
+
+      <section>
+        <p>
+          <label for="student">Are you a student?</label>
+          <input type="radio" id="student" name="student" value="yes" /> Yes
+          <input type="radio" id="student" name="student" value="no" /> No
+        </p>
+      </section>
+
+      <section>
+        <p>
+          <label for="year">What year are you currently in?</label>
+          <select id="year" name="year">
+            <option value="freshman">Freshman</option>
+            <option value="sophomore">Sophomore</option>
+            <option value="junior">Junior</option>
+            <option value="senior">Senior</option>
+          </select>
+        </p>
+      </section>
+
+      <section>
+        <p>
+          <label for="credit">How many credits have you taken?</label>
+          <input type="number" id="credit" name="credit" min="0" max="200" />
+        </p>
+      </section>
+
+      <section>
+        <p>
+          <label for="courses">What courses have you taken?</label>
+        </p>
+        <input type="checkbox" id="java" name="java" value="java" />
+        <label for="java">Java</label>
+        <input type="checkbox" id="python" name="python" value="python" />
+        <label for="python">Python</label>
+        <input
+          type="checkbox"
+          id="javascript"
+          name="javascript"
+          value="javascript"
+        />
+        <label for="javascript">JavaScript</label>
+        <input type="checkbox" id="web" name="web" value="web" />
+        <label for="web">Web Development</label>
+      </section>
+
+      <section>
+        <p>
+          <label for="satisfied"
+            >How satisfied are you with your education?</label
+          >
+          <input list="satisfaction" id="satisfied" name="satisfied" />
+          <datalist id="satisfaction">
+            <option value="A little"></option>
+            <option value="Average"></option>
+            <option value="A lot"></option>
+          </datalist>
+        </p>
+      </section>
+
+      <section>
+        <p>
+          <label for="recommend"
+            >How likely are you to recommend this program?</label
+          >
+          <span>Not at all</span>
+          <input
+            type="range"
+            id="recommend"
+            name="recommend"
+            step="1"
+            min="0"
+            max="10"
+          />
+          <span>Very likely</span>
+        </p>
+      </section>
+
+      <section>
+        <p>
+          <label for="comments">Comments:</label>
+          <textarea
+            id="comments"
+            name="comments"
+            rows="4"
+            cols="50"
+            placeholder="Enter your comments here"
+          ></textarea>
+        </p>
+      </section>
+
+      <section>
+        <p>
+          <input type="submit" value="Submit" />
+        </p>
+      </section>
+    </form>
+  </body>
+</html>
