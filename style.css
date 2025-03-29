@@ -17,10 +17,10 @@ button {
   border: none;
   padding: 10px 20px;
   border-radius: 50px;
-  font-size: 24px;
+  font-size: 18px;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   cursor: pointer;
   height: 50px;
-  width: 150px;
+  width: auto;
   margin: auto;
 }
