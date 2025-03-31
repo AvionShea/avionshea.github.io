@@ -20,3 +20,7 @@ form {
 .requiredField:valid {
   border-color: green;
 }
+footer {
+  margin-top: 100px;
+  text-align: center;
+}
