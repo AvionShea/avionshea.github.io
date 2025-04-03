@@ -3,6 +3,7 @@ a {
   cursor: pointer;
 }
 
+li,
 ul > li > a {
   line-height: 3;
 }
