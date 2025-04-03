@@ -29,7 +29,7 @@ This repository contains coursework and assignments for the _Web, Programming, &
 
 - 🏷️ My name is Avion (AY-vee-ahn).
 
-- 👩🏾‍🏫 Currently enrolled in Computer Programming and Development with a concentration in Java.
+- 👩🏾‍🏫 Currently enrolled in Computer Programming and Development with a concentration in C++.
 
 - 👩🏾‍🎓 1st generation college graduate with an Associate's degree in Advertising & Graphic Design and a Bachelor’s degree in Business Administration.
 
@@ -61,6 +61,8 @@ This repository contains coursework and assignments for the _Web, Programming, &
 <img style="padding:5px;" align="center" alt="NodeJS" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
 
 <img style="padding:5px;" align="center" alt="PostgresSQL" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"/>
+
+<img style="padding:5px;" align="center" alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"/>
 
 </p>
 
