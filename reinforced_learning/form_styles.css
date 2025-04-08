@@ -24,3 +24,17 @@ footer {
   margin-top: 100px;
   text-align: center;
 }
+
+.point {
+  cursor: pointer;
+}
+
+input[type="radio"]:checked {
+  border-color: blueviolet;
+  background-color: blueviolet;
+  box-shadow: inset 0 0 0 0px white;
+  accent-color: blueviolet;
+}
+input[type="radio"]:checked + label {
+  color: blueviolet;
+}

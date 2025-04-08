@@ -57,17 +57,25 @@
 
         <section>
           <p>
-            <label for="student">Are you a student?</label>
+            <label>Are you a student?</label>
             <input
+              class="point"
               checked
               type="radio"
-              id="student"
+              id="yes"
               name="student"
               value="yes"
               required
             />
-            Yes
-            <input type="radio" id="student" name="student" value="no" /> No
+            <label class="point" for="yes">Yes</label>
+            <input
+              class="point"
+              type="radio"
+              id="no"
+              name="student"
+              value="no"
+            />
+            <label class="point" for="no">No</label>
           </p>
         </section>
 
