@@ -29,5 +29,5 @@ button {
   cursor: pointer;
   height: 50px;
   width: auto;
-  margin: auto;
+  margin: auto 10px;
 }
