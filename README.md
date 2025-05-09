@@ -4,22 +4,7 @@ Hello everyone! Greetings to my personal GitHub account. This GitHub is a dynami
 
 ---
 
-# Web, Programming, & Database Foundation (Spring 2025)
-
-**Course Number:** CTI.110.4138
-**Professor:** Ryan Steffes
-
-This repository contains coursework and assignments for the _Web, Programming, & Database Foundation_ class. Topics covered include:
-
-- Markup and Markdown
-- Large Language Models (LLMs)
-- Project Management with Agile
-- Git Command Line
-- Intro to Databases
-- Intro to Web Design
-- HTML Forms
-- Intro to Algorithms
-- Intro to JavaScript
+# UNDER CONSTRUCTION
 
 ---
 
@@ -45,7 +30,6 @@ This repository contains coursework and assignments for the _Web, Programming, &
 
 ## 🤝🏾 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/email%20me-fffff?style=for-the-badge&logo=email&logoColor=blue)](mailto:apcobb@my.waketech.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avion-cobb/)
 
 ## 💻 Languages & Tools
@@ -67,14 +51,3 @@ This repository contains coursework and assignments for the _Web, Programming, &
 </p>
 
 ---
-
-# 📚 Academic Resources
-
-Some resources I've found helpful:
-
-- [Shay Howe](https://learn.shayhowe.com/)
-
-  - Covers a variety of web design and development topics (HTML/CSS).
-
-- [Eloquent JavaScript](https://eloquentjavascript.net/)
-  - Introduces the concept of JavaScript.
